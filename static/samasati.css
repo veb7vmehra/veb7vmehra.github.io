@@ -323,6 +323,13 @@ body:not(.user-is-tabbing) a:focus {
     height: 70%;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 @media(max-width: 900px) {
     .back-to-top {
         right: 2rem;
